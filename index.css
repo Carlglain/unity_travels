@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins',sans-serif;
+    box-sizing: border-box;
+   
+}
+
+#h1TEXT{
+    color: #FF7A00;
+}
+
+
+video{
+    border-radius: 10px;
+}
+
+.btn{
+    margin-bottom: 20px;
+    width: 40%;
+}
+.nav-link{
+    color: white;
+}
+.container{
+    text-align: center;
+}
+
+ i{
+    text-align: center;
+    padding-left: 15px;
+ }
+ .link{
+    text-decoration: none;
+    color:#000;
+ }
+
+  /* light mode */
+ body.light-mode {
+    background-color: #f5f5f5;
+    color: #333;
+  }
+
+  /* Dark Mode */
+.dark-mode {
+    background-color: #222;
+    color: #fff;
+  }
+.butn{
+    border: none;
+    background-color:transparent;
+  }
+.query{
+    margin-left: 400px;
+    border-radius: 10px;
+    border-color: #fff;
+}
+.nav-item{
+  
+  padding-left: 50px;
+}
+.push{
+    margin-right: 200px;
+}
+
+/* myTicket page */
+p input{
+    border: none;
+    text-align: center;
+   background-color: aquamarine;
+}
+.main{
+    text-align: center;
+}
+#waynumb{
+    text-align: center;
+}
+.buttons{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+a.b1{
+    text-decoration: none;
+    color: #fff;
+}
+
+
+/* FAQ */
+.faq{
+    background: #5692ce;
+}
+.lorem{
+    text-align: right;
+    
+}

@@ -1,0 +1,72 @@
+
+
+/* ul{ 
+    background-color: #dddddd;
+    height: 50px;
+    width: 100%;
+    position: relative;
+    margin: 0;
+    padding: 0;
+
+}
+li{
+    display: inline;
+    position: relative;
+    top:8px;
+}
+li a{
+    text-decoration: none;
+    padding:8px 16px;
+    color: #000;
+}
+.select{
+    float:right;
+}*/
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+div{
+    position: absolute;
+    left: 30%;
+    width: 40%;
+    height: 50%;
+    border:1px solid #555;
+    text-align: center;
+}
+div button{
+    position: relative;
+    left:40%;
+    top: 10%;
+    border-radius: 8px;
+    
+    /* border:1px solid #555; */
+}
+div button a{
+    display: block;
+    color: #000;
+    text-decoration: none;
+}
+button{
+    margin: 6px;
+    margin-top: 35px;
+    text-align: center;
+    border-radius: 8px;
+    height: max-content;
+}
+.trouble{
+    position: absolute;
+    left:45%;
+    bottom: 3% ;
+}
+.b1{
+    display: block;
+    color: #000;
+    text-decoration: none;
+}
+.dir{
+    position: absolute;
+    left:80%;
+    top:80%;
+}
